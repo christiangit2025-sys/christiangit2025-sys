@@ -1,10 +1,11 @@
 # Olá, eu sou o Christian 👋
 
-**Estudante de Análise e Desenvolvimento de Sistemas na FIAP** (conclusão em 2027), desenvolvendo **APIs em Java com Spring Boot** e **apps Android em Kotlin**. Antes da tecnologia, liderei uma loja de varejo e aprendi a decidir com base em indicadores — hoje levo isso para o código, começando pelo problema de quem vai usar.
+**Estudante de Análise e Desenvolvimento de Sistemas na FIAP** (conclusão em 2027), desenvolvendo **APIs em Java com Spring Boot** e **apps Android em Kotlin**. Hoje gerencio uma loja de varejo, onde aprendi a decidir com base em indicadores, e levo isso para o código: começo pelo problema de quem vai usar.
 
 🎯 **Buscando estágio em desenvolvimento** back-end, mobile ou full stack (São Paulo, presencial, híbrido ou remoto).
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-christiangit2025--sys.github.io-14213D?style=for-the-badge&logo=githubpages&logoColor=white)](https://christiangit2025-sys.github.io)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-B91C1C?style=for-the-badge)](https://christiangit2025-sys.github.io/curriculo-christian-santos.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-santos-6530bb247/)
 
 ---
